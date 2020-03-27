@@ -6,7 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="snack-pojo" />
         <module name="snack-common" />
+        <module name="snack-api" />
+        <module name="snack-mapper" />
+        <module name="snack-service" />
       </profile>
     </annotationProcessing>
   </component>

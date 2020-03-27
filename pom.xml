@@ -9,6 +9,10 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>snack-common</module>
+        <module>snack-api</module>
+        <module>snack-service</module>
+        <module>snack-pojo</module>
+        <module>snack-mapper</module>
     </modules>
 
     <packaging>pom</packaging>

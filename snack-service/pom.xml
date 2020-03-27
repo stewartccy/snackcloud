@@ -9,9 +9,14 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-<!--    <packaging>jar</packaging>-->
+    <artifactId>snack-service</artifactId>
 
-    <artifactId>snack-common</artifactId>
-
+    <dependencies>
+        <dependency>
+            <groupId>com.snack</groupId>
+            <artifactId>snack-mapper</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 
 </project>
