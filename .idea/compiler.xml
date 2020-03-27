@@ -14,4 +14,13 @@
       </profile>
     </annotationProcessing>
   </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="snack-api" options="-parameters" />
+      <module name="snack-common" options="-parameters" />
+      <module name="snack-mapper" options="-parameters" />
+      <module name="snack-pojo" options="-parameters" />
+      <module name="snack-service" options="-parameters" />
+    </option>
+  </component>
 </project>
