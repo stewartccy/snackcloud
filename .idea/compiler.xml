@@ -9,8 +9,8 @@
         <module name="snack-pojo" />
         <module name="snack-common" />
         <module name="snack-api" />
-        <module name="snack-mapper" />
         <module name="snack-service" />
+        <module name="snack-mapper" />
       </profile>
     </annotationProcessing>
   </component>
